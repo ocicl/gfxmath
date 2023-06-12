@@ -1,0 +1,10 @@
+* gfxmath
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://git.mfiano.net/mfiano/gfxmath.git   |
+| commit  |   |
+| systems | gfxmath |
+|---------+-------------------------------------------|
+
