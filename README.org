@@ -1,10 +1,11 @@
 * gfxmath
 
-
+GfxMath is a math library primarily for game development and graphical
+simulations, with a focus on correctness, extensibility, and
+simplicity (in that order) over performance.
 
 |---------+-------------------------------------------|
-| source  | git:https://git.mfiano.net/mfiano/gfxmath.git   |
-| commit  |   |
-| systems | gfxmath |
+| source  | git:https://github.com/mfiano/gfxmath.git |
+| commit  | 206bd3e                                   |
+| systems | gfxmath                                   |
 |---------+-------------------------------------------|
-
